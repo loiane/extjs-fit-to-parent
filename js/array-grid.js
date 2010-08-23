@@ -6,6 +6,8 @@
  */
 Ext.onReady(function(){
 
+	Ext.BLANK_IMAGE_URL = '../ext-3.2.1/resources/images/default/s.gif';
+	
     // NOTE: This is an example showing simple state management. During development,
     // it is generally best to disable state management as dynamically-generated ids
     // can change across page loads, leading to unpredictable results.  The developer
