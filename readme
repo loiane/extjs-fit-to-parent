@@ -1,0 +1,17 @@
+Example of how to resize an ExtJS component (Panel, Grid, etc) without using Ext.Viewport.
+You can render an ExtJS Panel, Grid, etc to a specific DIV and when you resize the window/browser,
+the component will resize itself.
+
+Tested on: Firefox, Chrome and IE 6.
+
+Sample project developed with Eclipse IDE (http://eclipse.org - opensource IDE).
+Eclipse project type: Javascript
+
+Extjs thread: http://www.sencha.com/forum/showthread.php?28318
+
+PS.: I'm not the plugin author, I just implemented a working example.
+
+Loiane Groner
+English Blog: http://loianegroner.com
+Portuguese Blog: http://loiane.com
+Twitter: http://twitter.com/loiane  
